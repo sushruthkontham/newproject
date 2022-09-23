@@ -1,3 +1,5 @@
 inside the file doc1
 
 changed inside the github doc1.txt
+
+changed text in dev
